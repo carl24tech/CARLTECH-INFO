@@ -5,14 +5,14 @@
 
 
  
- <a href="https://github.com/carl24tech"><img title="CARLTECH" src="https://img.shields.io/badge/GITHUB-h?color=black&style=for-the-badge&logo=github" width="230" height="38.45"/></a></p>
+ <a href="https://github.com/carl24tech"><img title="CARLTECH" src="https://img.shields.io/badge/GITHUB-h?color=black&style=for-the-badge&logo=github" width="240" height="38.45"/></a></p>
 
 
 
 ## 𝑹𝑬𝑨𝑪𝑯 𝑴𝑬 𝑶𝑵 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷
 
 
-  <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="230" height="38.45"/></a></p>
+  <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="240" height="38.45"/></a></p>
 
 
 
@@ -20,7 +20,7 @@
 
 
  
- <a href="https://t.me.carlltecch"><img title="TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?color=blue&style=for-the-badge&logo=telegram" width="230" height="38.45"/></a></p>
+ <a href="https://t.me.carlltecch"><img title="TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?color=blue&style=for-the-badge&logo=telegram" width="240" height="38.45"/></a></p>
 
 
 
