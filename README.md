@@ -12,7 +12,7 @@
 ## 𝑹𝑬𝑨𝑪𝑯 𝑴𝑬 𝑶𝑵 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷
 
 
-  <a href="https://github.com/carl24tech/CARLTECH-INFO"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="240" height="38.45"/></a></p>
+  <a href="https://github.com/254770954948"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="240" height="38.45"/></a></p>
 
 
 
