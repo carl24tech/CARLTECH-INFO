@@ -12,7 +12,7 @@
 ## 𝑹𝑬𝑨𝑪𝑯 𝑴𝑬 𝑶𝑵 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷
 
 
-  <a href="https://wa.link/c9qf2z"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="240" height="38.45"/></a></p>
+  <a href="https://wa.link/c9qf2z"><img title="WHATSAPP" src="https://img.shields.io/badge/WHATSAPP-h?color=green&style=for-the-badge&logo=whatsapp" width="250" height="38.54"/></a></p>
 
 
 
@@ -20,7 +20,7 @@
 
 
  
- <a href="https://t.me.carlltecch"><img title="TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?color=blue&style=for-the-badge&logo=telegram" width="240" height="38.45"/></a></p>
+ <a href="https://t.me.carlltecch"><img title="TELEGRAM" src="https://img.shields.io/badge/TELEGRAM-h?color=blue&style=for-the-badge&logo=telegram" width="250" height="38.54"/></a></p>
 
 
 
