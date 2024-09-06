@@ -5,7 +5,7 @@
 
 
  
- <a href="https://github.com/carl24tech"><img title="CARLTECH" src="https://img.shields.io/badge/GITHUB-h?color=black&style=for-the-badge&logo=github" width="240" height="38.45"/></a></p>
+ <a href="https://github.com/carl24tech"><img title="CARLTECH" src="https://img.shields.io/badge/GITHUB-h?color=black&style=for-the-badge&logo=github" width="248" height="38.54"/></a></p>
 
 
 
